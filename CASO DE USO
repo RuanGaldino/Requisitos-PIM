@@ -1,0 +1,16 @@
+CASO DE USO
+
+Tela de Login: Tela para autenticação de usuários.
+Adicionar Novas Atividades: Inserir novas tarefas no sistema.
+Mostrar Tarefas Ativas e Concluídas: Visualizar tarefas que estão pendentes e aquelas que já foram completadas.
+Editar Tarefas: Alterar informações de tarefas existentes.
+Cadastrar Fornecedores: Inserir informações sobre novos fornecedores.
+Consultar Fornecedores: Exibir a lista de fornecedores registrados.
+Atualizar Dados de Fornecedores: Modificar as informações dos fornecedores.
+Registrar Produção: Inserir informações sobre a produção realizada.
+Inserir Informações de Produção: Adicionar detalhes específicos sobre a produção.
+Cadastrar Clientes: Adicionar novos clientes ao sistema.
+Consultar Lista de Clientes: Visualizar todos os clientes cadastrados.
+Atualizar Informações dos Clientes: Modificar os dados dos clientes.
+Gráfico de Produção: Gerar um relatório visual em forma de gráfico sobre a produção.
+Agenda de Atividades de Produção: Visualizar um calendário com as atividades de produção programadas.
